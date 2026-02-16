@@ -24,4 +24,4 @@ Zamonaviy, tezkor va foydalanuvchi uchun qulay interfeysga ega mini internet-do'
 
 1. Repozitoriyani klonlang:
    ```bash
-   git clone [https://github.com/username/gemini-shop.git](https://github.com/username/gemini-shop.git)
+   git clone [https://github.com/ikromjonkomiljanov/gemini-shop.git](https://github.com/ikromjonkomiljanov/gemini-shop.git)
